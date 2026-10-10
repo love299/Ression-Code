@@ -1,0 +1,4 @@
+interface:
+  display_name: "机器学习科研指标迭代优化专家"
+  short_description: "单因素回归优化：真实训练验证 R² 与 Pearson，安全回滚并保留完整实验记录"
+  default_prompt: "请使用 $regression-metric-optimizer 对我指定的 Python 回归项目开展最多 8 项单因素优化，建立真实基线并交付实验记录和最优代码副本。"
